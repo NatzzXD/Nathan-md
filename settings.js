@@ -1,7 +1,7 @@
 /**
-   * Made By Fandyyy 🕴️
+   * Made By Natzzzz 🕴️
    * Subscribe FBOTZ YT
-   * Follow https://instagram.com/_nzrlafndi
+   * Follow https://instagram.com/Senpainats
    * Follow https://github.com/FBOTZ-YT
 */
 
@@ -9,8 +9,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //Ubah Disini
-global.ownerNumber = ['6285609233482','6287877173955','0']
-global.ownerName = 'Fandyyy X All Creator'
+global.ownerNumber = ['6285725753532','6285725753532','0']
+global.ownerName = 'Natzzzz X All Creator'
 global.packname = 'Ichigo Kurosaki'
 global.author = 'Whatsapp Bot 2022'
 global.prefa = ['','!','.','#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
